@@ -41,8 +41,8 @@ cd semantic-book-recommender
   python semantic_book_app.py
   ```
 5. Click on the local host link (ctrl + click)
-6. 
-7. This opens a gradio dashboard and then try below example
+   
+6. This opens a gradio dashboard and then try below example
 
 🌈 Example Use Case
 Input a prompt like:
